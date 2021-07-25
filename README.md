@@ -1,3 +1,3 @@
-# forkify Project
+# zamato Project
 
 Recipe application with custom recipe uploads.
